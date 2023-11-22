@@ -1,11 +1,13 @@
 # 🏆 SBOM Hall of Fame 🏆 
 > *A place for the InfoSec community to share and celebrate real stories of organizations successfully using SBOMs (and other bills of material) to actually manage and reduce security risk in meaningful ways.*
 
-Depending on who you ask in the InfoSec community, SBOMs are going to radically improve the state of software security around the world **OR** they're a total waste of time. It's high time we found a better way to cut through the noise and make it far easier for the InfoSec community to share and learn about SBOM success stories so it's easier for folks to figure out how to get value out of, or provide value with, SBOMs in their organizations.
+Depending on who you ask in the InfoSec community, SBOMs are going to radically improve the state of software security around the world **OR** they're a total waste of time. 
 
-This is the purpose of the...
+It's high time we found a better way to cut through the noise and **make it far easier for the InfoSec community to share and learn about SBOM success stories so it's easier for folks to figure out how to get value out of, or provide value with, SBOMs in their organizations**.
 
-<p align="center"><img src="https://github.com/communitysec/sbom-hall-of-fame/blob/main/SBOM%20Hall%20of%20Fame.png" width=25% height=25% /></p>
+This is the stated purpose of the...
+
+<p align="center"><img src="https://github.com/communitysec/sbom-hall-of-fame/blob/main/SBOM%20Hall%20of%20Fame.png" width=35% height=35% /></p>
 
 Do you want to help organizations see the light around how to use SBOMs (and other BOM types) in practical ways that actually provide value? Submit a pull request to add to the table below!
 
